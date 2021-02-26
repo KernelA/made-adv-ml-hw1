@@ -10,5 +10,5 @@ dependencies:
   - ipywidgets[version='>=7.5']
   - matplotlib=3
   - scikit-learn=0.23
-  - sympy=1.7
   - scipy=1.6
+  - tqdm=4.56
