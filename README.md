@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KernelA/made-adv-ml-hw1/master?filepath=solution.ipynb)
 
-[Описание задач](https://docs.google.com/document/d/1snU4dXicuPmFz9XjTF8c7nSw0qGdJAgdJeZVrg-NakI/edit)
+[Описание задач](/task.pdf)
 
 ## Требования для запуска
 
